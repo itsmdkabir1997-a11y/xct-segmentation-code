@@ -14,7 +14,7 @@ Run: `pip install -r requirements.txt`
 ## Dataset
 The dataset is **not included** in this repository.
 
-Dataset DOI/link: `https://doi.org/10.5281/zenodo.18751261`
+Dataset DOI/link: https://doi.org/10.5281/zenodo.18751261
 
 Download the dataset ZIP from the link above and set the dataset path inside the notebook (Cell 1).
 
